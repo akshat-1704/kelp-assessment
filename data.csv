@@ -1,0 +1,4 @@
+name.firstName,name.lastName,age,address.line1,address.line2,address.city,address.state,gender
+Rohit,Prasad,35,A-563 Rakshak Society,New Pune Road,Pune,Maharashtra,male
+John,Doe,40,123 Main St,,New York,NY,male
+Jane,Doe,38,456 Oak St,,Los Angeles,CA,female
